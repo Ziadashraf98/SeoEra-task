@@ -87,6 +87,7 @@
         <!-- main-panel ends -->
       </div>
       <!-- page-body-wrapper ends -->
+      @include('includes.footer')
     </div>
     <!-- container-scroller -->
     <!-- plugins:js -->
