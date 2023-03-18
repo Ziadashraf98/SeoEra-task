@@ -51,7 +51,7 @@
                 <div class="form-group">
                   <label for="exampleSelectGender">Slogan</label>
                   <select name="slogan" class="form-control" id="exampleSelectGender">
-                    <option value="{{null}}">add slogan</option>
+                    <option value="{{null}}">select slogan</option>
                     <option value="en">English</option>
                     <option value="ar">Arabic</option>
                     <option value="sp">Spanish</option>
